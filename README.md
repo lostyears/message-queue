@@ -1,0 +1,1 @@
+Support telnet client to test message queue.
